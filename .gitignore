@@ -1,3 +1,15 @@
+# Idea Property Files
+.idea/
+
+# Generated Folders
+/target
+
+# OpenSSL Generated Files
+*.crt
+*.key
+*.csr
+*.pem
+
 # Compiled class file
 *.class
 
